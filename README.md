@@ -1,0 +1,2 @@
+What is GeeLark
+GeeLark is a platform that provides cloud phones, which are essentially cloud servers that have a native Android operating system and function as virtual phones. Simply put, a cloud phone equals a cloud server plus Android OS. You can control these cloud phones remotely in real time, allowing Android apps to run in the cloud. This revolutionary technical architecture solves the hardware limitations of using mobile devices, providing unprecedented flexibility and scalability for many scenarios.
